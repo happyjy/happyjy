@@ -1,7 +1,5 @@
 # 꾸준하게 필요한 것을 찾아 문제해결 하는 것을 즐기는 프론트엔드 개발자입니다
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fhappyjy0109%2F00-TIL-Today-I-learned-f5d85d0921dd46f8988addf41bffbe75&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 * 제일 잘 하는 게 `꾸준`하게 `노력`하는 거예요.
   * 어떻게 하면 문제를 해결할 수 있을까 고민해요.
   * 문제 해결하기 위해서 필요한 게 뭔지 고민해요.
@@ -35,3 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fhappyjy0109%2F00-TIL-Today-I-learned-f5d85d0921dd46f8988addf41bffbe75&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
