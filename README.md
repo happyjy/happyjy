@@ -7,7 +7,7 @@
 * 어제의 저랑만 경쟁해요.
 * 꾸준하게 노력하면 잘될거라 믿어요.
 * 어떻게 하면 나눌수 있을지 고민해요.
-  * 2020년 이후 부터는 블로그말고 notino에 기록하고 있어요
+  * 2020년 이후 부터는 블로그말고 notion에 기록하고 있어요
     * [notion](https://www.notion.so/happyjy0109/00-TIL-Today-I-learned-f5d85d0921dd46f8988addf41bffbe75)
     * [블로그](https://happyjy.netlify.app/)
 
