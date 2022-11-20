@@ -15,6 +15,7 @@
 * JavaScript
 * React
 * Redux
+* Redux-saga
 * Typescript
 * CSS
 * Node.js
