@@ -13,10 +13,10 @@
 
 # 📌 관심순위 📌
 * JavaScript
+* Typescript 
 * React
 * Redux
 * Redux-saga
-* Typescript
 * CSS
 * Node.js
 
