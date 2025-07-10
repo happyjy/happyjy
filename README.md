@@ -20,4 +20,4 @@
 * CSS
 * Node.js
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fhappyjy0109%2F00-TIL-Today-I-learned-f5d85d0921dd46f8988addf41bffbe75&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fhappyjy?color=blue&label=hits&size=small)](https://myhits.vercel.app)
